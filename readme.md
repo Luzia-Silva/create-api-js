@@ -1,4 +1,6 @@
-# Aonde Estudei
+![Snake animation](https://media.giphy.com/media/SElYNmZJa1Log2LZkn/giphy.gif)
+
+# Aonde estudar:
 
 - Rocketseat Youtube: https://youtu.be/ghTrp1x_1As
 - Repository Rocketseat: https://github.com/rocketseat-content/youtube-api-rest-restful
@@ -9,15 +11,15 @@
 
 ## Construindo Minha Primeira API
 
-O que é uma API(Interface de programação de aplicações)?
-Conjunto de rotinas e padrões de porogramação para web ou aplicativo.
+O que é uma API(Interface de programação de aplicações)?<br>
+Conjunto de rotinas e padrões de porogramação para web ou aplicativo.<br>
 É um mini-sisteminhas que da acesso ao backend do seu SISTEMA central.
 
 ## API, REST e RESTFUL
 
-CLIENTE (CLIENT)
-GARÇON (PEDIDOS - LEVAR SEUS PEDIDOS - PARA COZINHA) (API)
-COZINHA (SERVER)
+- CLIENTE (CLIENT)
+- GARÇON (PEDIDOS - LEVAR SEUS PEDIDOS - PARA COZINHA) (API)
+- COZINHA (SERVER)
 
 Acrônimo de Application Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
 
@@ -27,7 +29,7 @@ Acrônimo de Application Programming Interface (Interface de Programação de Ap
 
 ## REST - Representational State Transfer (Transferência Representacional de Estado)
 
-DEFINIÇÃO:
+DEFINIÇÃO:<br>
 É um modelo de arquitetura que fornece diretrizes para que os sistemas distribuídos se comuniquem diretamente usando os princípios e protocolos existentes da Web. Criador Roy Fielding nos anos 2000, onde o princípio fundamental é usar o protocolo HTTP (Protocolo de comunicação) para comunicação de dados.
 
 Responsabilidades no REST é fazer esse caminho de Client e Server para que ocorrá a comunicação de troca de mensagens usando um padrão de solicitação-resposta:
