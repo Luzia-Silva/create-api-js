@@ -1,0 +1,32 @@
+[
+    { 
+      "id": 1,
+      "required":"Pingado",
+      "amount":2,
+      "value": 3.25,
+      "name":"Josimar"
+    },
+    {
+      "id": 2,
+      "required":"Cappuccinoo",
+      "amount":1,
+      "value": 15.52,
+      "name":"Leandro"
+    },
+    { "id": 3,
+      "required":"Suco de Maracujá",
+      "amount":4,
+      "value": 5,
+      "name":"Toni"
+    },
+    {
+      "id": 4,
+      "required":"Poção da Juventude",
+      "amount":100,
+      "value": 2,
+      "name":"Luzia"
+    }
+]
+      
+  
+
