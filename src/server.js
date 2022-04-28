@@ -6,7 +6,7 @@ const data = require("./data.json")
 
 //Express use o json, estou somente avisando ele para usar o JSON👌
 app.use(express.json()) 
-app.use(cours());
+app.use(cors());
 
 
 //Sempre/Forever será request(req)-> REQUISIÇÃO feita pelo cliente e depois responde(res)-> RESPOSTA
