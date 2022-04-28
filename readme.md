@@ -1,6 +1,6 @@
 ![Snake animation](https://media.giphy.com/media/SElYNmZJa1Log2LZkn/giphy.gif)
 
-# Aonde estudar:
+## Aonde estudar:
 
 - Rocketseat Youtube: https://youtu.be/ghTrp1x_1As
 - Repository Rocketseat: https://github.com/rocketseat-content/youtube-api-rest-restful
